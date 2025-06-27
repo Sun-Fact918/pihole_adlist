@@ -15,6 +15,7 @@
 
 # Other Telemetry Stuff
 ||usage-ping.brave.com^
+||merino.services.mozilla.com^ #https://firefox-source-docs.mozilla.org/browser/urlbar/firefox-suggest-telemetry.html
 
 # SmartTV Stuff
 ||lgsmartad.com^
