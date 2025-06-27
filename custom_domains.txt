@@ -16,7 +16,8 @@
 # SmartTV Stuff
 ||lgsmartad.com^
 ||lgtvcommon.com^
-||lgtvdsp.com^
+||lgtvsdp.com^
+||nextlgsdp.com^
 ||lgtviot.com^
 ||api.thetake.com^
 
