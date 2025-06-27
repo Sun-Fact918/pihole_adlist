@@ -1,0 +1,24 @@
+# Title: Custom_domains
+#
+# This file is a collection of domains and
+# hosts I have blocked through PiHole and
+# made into a list to distribute it more
+# easily between the different instances I manage
+# This is in no way an exhaustive list
+#
+# =====================================================
+
+
+# Social Media Telemetry
+0.0.0.0 graph.facebook.com
+0.0.0.0 grap.instagram.com
+
+# SmartTV Stuff
+0.0.0.0 lgsmartad.com
+0.0.0.0 lgtvcommon.com
+0.0.0.0 lgtvdsp.com
+0.0.0.0 lgtviot.com
+0.0.0.0 api.thetake.com
+
+# Only seen it used by the TV
+0.0.0.0 discovery.meethue.com
