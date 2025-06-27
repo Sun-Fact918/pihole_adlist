@@ -10,16 +10,15 @@
 
 
 # Social Media Telemetry
-graph.facebook.com
-grap.instagram.com
+||graph.facebook.com^
+||graph.instagram.com^
 
 # SmartTV Stuff
-lgsmartad.com
 ||lgsmartad.com^
-lgtvcommon.com
-lgtvdsp.com
-lgtviot.com
-api.thetake.com
+||lgtvcommon.com^
+||lgtvdsp.com^
+||lgtviot.com^
+||api.thetake.com^
 
 # Only seen it used by the TV
 discovery.meethue.com
