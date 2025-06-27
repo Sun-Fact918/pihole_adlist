@@ -13,6 +13,9 @@
 ||graph.facebook.com^
 ||graph.instagram.com^
 
+# Other Telemetry Stuff
+||usage-ping.brave.com^
+
 # SmartTV Stuff
 ||lgsmartad.com^
 ||lgtvcommon.com^
@@ -23,3 +26,6 @@
 
 # Only seen it used by the TV
 discovery.meethue.com
+
+# Ads?
+||ads.mozilla.org^
