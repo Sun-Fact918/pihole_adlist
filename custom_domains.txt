@@ -15,7 +15,7 @@
 
 # SmartTV Stuff
 0.0.0.0 lgsmartad.com
-0.0.0.0 *.lgsmartad.com
+0.0.0.0 .*\.lgsmartad\.com
 0.0.0.0 lgtvcommon.com
 0.0.0.0 lgtvdsp.com
 0.0.0.0 lgtviot.com
