@@ -15,7 +15,7 @@ grap.instagram.com
 
 # SmartTV Stuff
 lgsmartad.com
-||lgsmartad.com
+||lgsmartad.com^
 lgtvcommon.com
 lgtvdsp.com
 lgtviot.com
