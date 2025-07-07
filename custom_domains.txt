@@ -1,10 +1,15 @@
 # Title: Custom_domains
 #
 # This file is a collection of domains and
-# hosts I have blocked through PiHole and
+# hosts I have blocked through PiHole query list over time and
 # made into a list to distribute it more
 # easily between the different instances I manage
-# This is in no way an exhaustive list
+# This is in no way an exhaustive list nor thouroughly tested
+# It works for my networks, it might not be working for yours!
+# Feel free to test it and participate if you want.
+#
+# Date: 27/06/2025
+# Author: Sun Fact
 #
 # =====================================================
 
@@ -12,10 +17,15 @@
 # Social Media Telemetry
 ||graph.facebook.com^
 ||graph.instagram.com^
+||graph.whatsapp.com^
 
-# Other Telemetry Stuff
+
+# Browsers
 ||usage-ping.brave.com^
-||merino.services.mozilla.com^ #https://firefox-source-docs.mozilla.org/browser/urlbar/firefox-suggest-telemetry.html
+||merino.services.mozilla.com^ # https://firefox-source-docs.mozilla.org/browser/urlbar/firefox-suggest-telemetry.html
+
+# Other Website Telemetry Stuff
+||metrics.hyperoptic.com^
 
 # SmartTV Stuff
 ||lgsmartad.com^
