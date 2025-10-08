@@ -35,6 +35,9 @@
 ||lgtviot.com^
 ||api.thetake.com^
 
+# Seems to be tracker embedded in apps on smart things or the smart thing itself
+||devices.a2z.com^
+
 # Only seen it used by the TV
 discovery.meethue.com
 
