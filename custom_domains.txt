@@ -16,7 +16,9 @@
 
 # Social Media Telemetry
 ||graph.facebook.com^
+||graph-fallback.facebook.com^
 ||graph.instagram.com^
+||graph-fallback.instagram.com^
 ||graph.whatsapp.com^
 
 
