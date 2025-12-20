@@ -21,6 +21,9 @@
 ||graph-fallback.instagram.com^
 ||graph.whatsapp.com^
 
+# Other application and known usage trackers
+||ingest.sentry.io^
+
 
 # Browsers
 ||usage-ping.brave.com^
