@@ -23,6 +23,9 @@
 
 # Other application and known usage trackers
 ||ingest.sentry.io^
+||sentry.ixsystems.com^
+# AWS?
+||telemetry.cell-0.us-east-1.prod.tangerinebox.console.aws.a2z.com^
 
 
 # Browsers
