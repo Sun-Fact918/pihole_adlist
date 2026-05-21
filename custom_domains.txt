@@ -12,6 +12,9 @@
 # Author: Sun Fact
 #
 # See: https://adguard-dns.io/kb/general/dns-filtering-syntax/
+# Also see: https://pi-hole.net/blog/2023/03/22/pi-hole-ftl-v5-22-web-v5-19-and-core-v5-16-1-released/#page-content
+#
+# Basically Pihole only supports the ||domain.com^ ABP Style to block be wildcard domains
 #
 # =====================================================
 
@@ -33,7 +36,7 @@
 ||logs.netflix.com^
 
 # Custome Engagement and others data collection stuff
-||braze.com^$denyallow=braze.com
+||braze.com
 ||braze^
 
 
