@@ -19,7 +19,7 @@
 # =====================================================
 
 
-# Social Media Telemetry
+# Social Media Telemetry and tracking stuff
 ||graph.facebook.com^
 ||graph-fallback.facebook.com^
 ||test-gateway.instagram.com^
@@ -27,6 +27,12 @@
 ||graph-fallback.instagram.com^
 ||test-gateway.instagram.com^
 ||graph.whatsapp.com^
+# Tik Tok
+||byteoversea.com^
+
+# Other Big tech stuff
+||api-adservices.apple.com^
+||books-analytics-events.apple.com^
 
 # Other application and known usage trackers
 ||ingest.sentry.io^
@@ -63,3 +69,4 @@ discovery.meethue.com
 
 # Ads?
 ||ads.mozilla.org^
+||doubleclick.net^
