@@ -11,6 +11,8 @@
 # Date: 27/06/2025
 # Author: Sun Fact
 #
+# See: https://adguard-dns.io/kb/general/dns-filtering-syntax/
+#
 # =====================================================
 
 
@@ -27,6 +29,10 @@
 # AWS?
 ||telemetry.cell-0.us-east-1.prod.tangerinebox.console.aws.a2z.com^
 ||logs.netflix.com^
+
+# Custome Engagement and others data collection stuff
+/*.braze.com/
+||braze^
 
 
 # Browsers
