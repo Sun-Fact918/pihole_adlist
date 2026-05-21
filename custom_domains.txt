@@ -19,8 +19,10 @@
 # Social Media Telemetry
 ||graph.facebook.com^
 ||graph-fallback.facebook.com^
+||test-gateway.instagram.com
 ||graph.instagram.com^
 ||graph-fallback.instagram.com^
+||test-gateway.instagram.com^
 ||graph.whatsapp.com^
 
 # Other application and known usage trackers
