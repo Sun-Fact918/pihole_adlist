@@ -19,7 +19,7 @@
 # Social Media Telemetry
 ||graph.facebook.com^
 ||graph-fallback.facebook.com^
-||test-gateway.instagram.com
+||test-gateway.instagram.com^
 ||graph.instagram.com^
 ||graph-fallback.instagram.com^
 ||test-gateway.instagram.com^
@@ -33,7 +33,7 @@
 ||logs.netflix.com^
 
 # Custome Engagement and others data collection stuff
-*.braze.com^
+||braze.com^$denyallow=braze.com
 ||braze^
 
 
