@@ -31,7 +31,7 @@
 ||logs.netflix.com^
 
 # Custome Engagement and others data collection stuff
-/*.braze.com/
+*.braze.com^
 ||braze^
 
 
