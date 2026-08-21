@@ -60,6 +60,10 @@
 ||nextlgsdp.com^
 ||lgtviot.com^
 ||api.thetake.com^
+||alphonso.tv^
+||ueiwsp.com^
+||lgtvonline.lge.com^
+||unagi-eu.amazon.com^
 
 # Seems to be tracker embedded in apps on smart things or the smart thing itself
 ||devices.a2z.com^
